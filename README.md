@@ -146,18 +146,7 @@ This project is intended for academic and research purposes. You are free to use
 
 ## 🔗 Links
 
-* 🌐 Live Demo (if hosted): `https://steamspace.in` *(Update this if changed)*
-* 📝 Project Report (LaTeX): Available in `/docs/report.pdf`
+* 🌐 Live Demo (if hosted): `https://steamspace.in`
+* 📝 Project Report (LaTeX): Available in `.pdf`
 * 📦 GIS Layers & QR Examples: Available in `/assets/gis/` and `/qr_codes/`
 
-```
-
----
-
-If you'd like, I can:
-- Convert this README to a live `README.md` file.
-- Add badges (e.g., MIT License, Tech Stack).
-- Include GitHub repo-specific content (e.g., issues, pull requests, etc.).
-
-Let me know!
-```
