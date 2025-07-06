@@ -106,7 +106,7 @@ npm start
 
 | QGIS                                         | Google Earth Pro                |
 | -------------------------------------------- | ------------------------------- |
-| ![QGIS](https://github.com/ks-2004/Smart-Waste-Management-System/blob/main/QGIS%20(1).png) | ![Google Earth Pro](https://github.com/ks-2004/Smart-Waste-Management-System/blob/main/admin_page.png) |
+| ![QGIS](https://github.com/ks-2004/Smart-Waste-Management-System/blob/main/QGIS%20(1).png) | ![Google Earth Pro](https://github.com/ks-2004/Smart-Waste-Management-System/blob/main/google%20earth%20pro%20(1).png) |
 
 
 ---
