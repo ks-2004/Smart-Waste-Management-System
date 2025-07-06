@@ -98,7 +98,7 @@ npm start
 
 | Login Page                 | First-Level Interface                 |
 | -------------------------- | ------------------------------------- |
-| ![Login](images/login.png) | ![HKS](images/first-level_staff.jpeg) |
+| ![Login](https://github.com/ks-2004/Smart-Waste-Management-System/blob/main/login.png) | ![HKS](images/first-level_staff.jpeg) |
 
 | Second-Level Collector                       | Admin Dashboard                 |
 | -------------------------------------------- | ------------------------------- |
