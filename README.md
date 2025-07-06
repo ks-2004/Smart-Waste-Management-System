@@ -151,7 +151,5 @@ This project is intended for academic and research purposes. You are free to use
 
 ## 🔗 Links
 
-* 🌐 Live Demo (if hosted): `https://steamspace.in`
-* 📝 Project Report (LaTeX): Available in `.pdf`
-* 📦 GIS Layers & QR Examples: Available in `/assets/gis/` and `/qr_codes/`
+* 📝 Project Report : https://github.com/ks-2004/Smart-Waste-Management-System/blob/main/SMART_WASTE_MANAGEMENT_SYSTEM%20(2).pdf
 
