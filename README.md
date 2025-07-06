@@ -102,7 +102,12 @@ npm start
 
 | Second-Level Collector                       | Admin Dashboard                 |
 | -------------------------------------------- | ------------------------------- |
-| ![Collector](https://github.com/ks-2004/Smart-Waste-Management-System/blob/main/second-level_staff.jpeg) | ![Admin](images/admin_page.png) |
+| ![Collector](https://github.com/ks-2004/Smart-Waste-Management-System/blob/main/second-level_staff.jpeg) | ![Admin](https://github.com/ks-2004/Smart-Waste-Management-System/blob/main/admin_page.png) |
+
+| QGIS                                         | Google Earth Pro                |
+| -------------------------------------------- | ------------------------------- |
+| ![QGIS](https://github.com/ks-2004/Smart-Waste-Management-System/blob/main/second-level_staff.jpeg) | ![Google Earth Pro](https://github.com/ks-2004/Smart-Waste-Management-System/blob/main/admin_page.png) |
+
 
 ---
 
