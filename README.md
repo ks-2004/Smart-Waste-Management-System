@@ -102,7 +102,7 @@ npm start
 
 | Second-Level Collector                       | Admin Dashboard                 |
 | -------------------------------------------- | ------------------------------- |
-| ![Collector](images/second-level_staff.jpeg) | ![Admin](images/admin_page.png) |
+| ![Collector](https://github.com/ks-2004/Smart-Waste-Management-System/blob/main/second-level_staff.jpeg) | ![Admin](images/admin_page.png) |
 
 ---
 
