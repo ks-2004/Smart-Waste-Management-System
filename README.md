@@ -1,8 +1,5 @@
 # Smart-Waste-Management-System
 
-### ✅ `README.md` for Working Web App (QR + GIS System)
-
-````markdown
 # Smart Waste Management System Using QR Code and GIS 🗺️♻️
 
 This project implements a smart and scalable waste management system using:
